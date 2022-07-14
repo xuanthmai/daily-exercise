@@ -1,4 +1,5 @@
 # Two Sum
+Date: 2022/07/14
 
 URL: [Leet Code - Two Sum](https://leetcode.com/problems/two-sum/)
 
