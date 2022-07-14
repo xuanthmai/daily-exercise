@@ -7,6 +7,9 @@ Environment
 - scala: 2.13.8
 
 Usage:
+- `scalac solution.scala`
+- `scala TwoSum`
+- Update testcases in `main`
 
 
 Submission
