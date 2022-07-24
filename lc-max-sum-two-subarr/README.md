@@ -1,5 +1,5 @@
 # Two Sum
-Date: 2022/07/18
+Date: 2022/07/19
 
 URL: [Leet Code - Maximum sum of two non-overlapping subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)
 
@@ -15,6 +15,9 @@ Usage:
 Submission
 | Runtime | Memory  | Notes |
 | ------- | ------  | ----  |
-| 1084ms  | 73.2 MB | faster than 37.79%, less than 71.13% |
+| 2608ms  | 738.1 MB | faster than 50%, less than 50% |
+
+Notes:
+This solution takes lots of mem. Need an improvement.
 
 
