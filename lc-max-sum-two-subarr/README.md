@@ -1,4 +1,4 @@
-# Two Sum
+# Maximum sum of two non-overlapping subarrays
 Date: 2022/07/19
 
 URL: [Leet Code - Maximum sum of two non-overlapping subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)
