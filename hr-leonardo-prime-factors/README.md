@@ -1,4 +1,4 @@
-# Two Sum
+# Leonardo's Prime Factors
 Date: 2022/07/28
 
 URL: [Hacker Rank - Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)
